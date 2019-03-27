@@ -1,0 +1,42 @@
+body {
+  background-color: #CFF2B9;
+  padding: 20px;}
+h1 {
+  background-color: #6AB039;
+  font-size: 250%;}
+h2 {
+  background-color: #8DCF5E;
+  font-style: italic;
+  width: 10%;}
+h3 {
+  background-color: #CFF2B9;
+  font-style: italic;
+  width: 50%;}
+h4 {
+  background-color: #CFF2B9;
+  font-size: 150%;}
+p:first-line {
+  font-weight: bold;}
+a[href^="#"]{
+    color: black;}
+p {
+  line-height: 1.5em;}
+a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
